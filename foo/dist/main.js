@@ -1,0 +1,1 @@
+console.log("Hola mundo - sin configuración sin webPAck :😗");
